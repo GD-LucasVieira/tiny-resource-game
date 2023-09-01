@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Maps/Main.umap",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/General/BP_Camera_Pawn.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/General/BP_GameMode.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Move_Camera_by_Key.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IMP_TinyResourceGame.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Rotation_Camera_By_Key.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Mouse_Controller.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Strafe_by_Key.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Mouse_Zoom.uasset",
+				"D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Inputs/IA_Zoom.uasset"
+			]
+		}
+	]
+}
