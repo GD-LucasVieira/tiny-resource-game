@@ -3431,3 +3431,340 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.02-13.54.57:446][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.02-13.54.57:446][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.02-13.54.57:484][964]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.02-13.57.00:680][ 64]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.02-13.57.00:689][ 64]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.02-13.57.00:695][ 65]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.02-13.57.04:677][543]LogContentBrowser: Attempting asset rename: NewFolder -> Resources
+[2023.09.02-13.57.04:677][543]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.02-13.57.08:194][838]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.09.02-13.57.08:201][838]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.09.02-13.57.08:205][838]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.09.02-13.57.08:221][840]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.09.02-13.57.13:688][496]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Resources
+[2023.09.02-13.57.13:758][496]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.09.02-13.57.28:045][905]LogContentBrowser: Deferred new asset file creation: BP_Resources_Child
+[2023.09.02-13.57.28:060][905]LogContentBrowser: Creating deferred item: BP_Resources_Child
+[2023.09.02-13.57.28:069][906]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Resources_Child).
+[2023.09.02-13.57.32:066][386]LogContentBrowser: Attempting asset rename: BP_Resources_Child -> BP_Tree
+[2023.09.02-13.57.32:141][386]LogContentBrowser: End creating deferred item BP_Resources_Child
+[2023.09.02-13.57.45:957][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Resources/BP_Tree.BP_Tree
+[2023.09.02-13.57.45:957][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-13.57.45:957][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-13.57.46:033][658]LogViewport: Scene viewport resized to 1297x896, mode Windowed.
+[2023.09.02-13.57.46:056][659]LogViewport: Scene viewport resized to 1297x885, mode Windowed.
+[2023.09.02-13.57.46:125][660]LogViewport: Scene viewport resized to 1297x867, mode Windowed.
+[2023.09.02-13.58.06:074][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-13.59.09:760][992]BlueprintLog: New page: Compile BP_Tree
+[2023.09.02-13.59.09:789][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.02-13.59.10:877][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-13.59.10:909][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/BP_Tree" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Resources/BP_Tree.uasset" SILENT=true
+[2023.09.02-13.59.10:912][103]LogSavePackage: Moving output files for package: /Game/Resources/BP_Tree
+[2023.09.02-13.59.10:912][103]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_TreeDC5E1B1C47D2A76F3C19779E9BE91BC4.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Resources/BP_Tree.uasset'
+[2023.09.02-13.59.11:049][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 22.8 sec)
+[2023.09.02-13.59.11:053][103]AssetCheck: New page: Asset Save: BP_Tree
+[2023.09.02-13.59.11:053][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Resources/BP_Tree.BP_Tree
+[2023.09.02-13.59.13:118][350]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-13.59.13:118][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-13.59.13:137][350]LogViewport: Scene viewport resized to 376x468, mode Windowed.
+[2023.09.02-13.59.13:146][351]LogViewport: Scene viewport resized to 376x465, mode Windowed.
+[2023.09.02-13.59.13:175][352]LogViewport: Scene viewport resized to 376x460, mode Windowed.
+[2023.09.02-13.59.13:188][353]LogViewport: Scene viewport resized to 376x458, mode Windowed.
+[2023.09.02-13.59.13:201][354]LogViewport: Scene viewport resized to 376x456, mode Windowed.
+[2023.09.02-13.59.13:214][355]LogViewport: Scene viewport resized to 376x452, mode Windowed.
+[2023.09.02-13.59.13:228][356]LogViewport: Scene viewport resized to 376x450, mode Windowed.
+[2023.09.02-13.59.13:240][357]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2023.09.02-13.59.13:253][358]LogViewport: Scene viewport resized to 376x446, mode Windowed.
+[2023.09.02-13.59.13:266][359]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.02-13.59.14:929][557]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-13.59.14:929][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-13.59.19:893][118]LogContentBrowser: Deferred new asset file creation: BP_Building_Child
+[2023.09.02-13.59.19:908][118]LogContentBrowser: Creating deferred item: BP_Building_Child
+[2023.09.02-13.59.19:915][119]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Building_Child).
+[2023.09.02-13.59.26:904][958]LogContentBrowser: Attempting asset rename: BP_Building_Child -> BP_Resources_Building
+[2023.09.02-13.59.26:978][958]LogContentBrowser: End creating deferred item BP_Building_Child
+[2023.09.02-13.59.26:979][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.00.04:002][  5]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Buildings/BP_Lumber.BP_Lumber from BP_Building_C to BP_Resources_Building_C...
+[2023.09.02-14.00.04:009][  5]BlueprintLog: New page: Compile BP_Lumber
+[2023.09.02-14.00.04:038][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.02-14.03.32:164][133]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.02-14.03.32:175][133]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.02-14.03.32:182][134]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.02-14.03.35:854][575]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.09.02-14.03.35:854][575]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.02-14.04.01:553][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.09.02-14.04.01:557][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.02-14.04.01:564][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto1
+[2023.09.02-14.04.01:564][845]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Main_Auto18279B01A4F69EB95D5AFF58231D34DD6.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2023.09.02-14.04.01:567][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.029
+[2023.09.02-14.04.01:567][845]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.09.02-14.04.01:567][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Buildings/BP_Lumber] ([2] browsable assets)...
+[2023.09.02-14.04.01:657][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Buildings/BP_Lumber.BP_Lumber]
+[2023.09.02-14.04.01:657][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Buildings/BP_Lumber]
+[2023.09.02-14.04.01:657][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Lumber" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Buildings/BP_Lumber_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.09.02-14.04.01:662][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Buildings/BP_Lumber_Auto1
+[2023.09.02-14.04.01:662][845]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Lumber_Auto10CF50E86464C2A03F322D587E811BBE4.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Buildings/BP_Lumber_Auto1.uasset'
+[2023.09.02-14.04.01:664][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Resources/BP_Resources] ([2] browsable assets)...
+[2023.09.02-14.04.01:664][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Resources/BP_Resources]
+[2023.09.02-14.04.01:664][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/BP_Resources" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Resources/BP_Resources_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.09.02-14.04.01:665][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Resources/BP_Resources_Auto1
+[2023.09.02-14.04.01:665][845]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Resources_Auto19558AA6A48667BF4CFD245AFEE3920BD.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Resources/BP_Resources_Auto1.uasset'
+[2023.09.02-14.04.01:665][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Buildings/BP_Resources_Building] ([2] browsable assets)...
+[2023.09.02-14.04.01:708][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Buildings/BP_Resources_Building.BP_Resources_Building]
+[2023.09.02-14.04.01:708][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Buildings/BP_Resources_Building]
+[2023.09.02-14.04.01:711][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Buildings/BP_Resources_Building_Auto1
+[2023.09.02-14.04.01:711][845]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Resources_Building_Auto1763E110843D449A3AC9EBFA78B6EA375.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Buildings/BP_Resources_Building_Auto1.uasset'
+[2023.09.02-14.04.01:711][845]LogFileHelpers: Auto-saving content packages took 0.144
+[2023.09.02-14.04.14:159][380]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mrjlv\Downloads\Walking.fbx)
+[2023.09.02-14.04.14:184][380]LogFbx: Loading FBX Scene from C:\Users\mrjlv\Downloads\Walking.fbx
+[2023.09.02-14.04.14:204][380]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.02-14.04.38:345][380]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.02-14.04.38:383][380]LogFbx: Valid bind pose for Pose (skinCluster2) - Peasant_Man
+[2023.09.02-14.04.38:387][380]LogMaterial: Display: Material /Game/Animations/Peasant_Man_02.Peasant_Man_02 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.09.02-14.04.38:440][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.02-14.04.38:443][380]LogTexture: Display: Building textures: /Game/Animations/Peasant_Man_diffuse.Peasant_Man_diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.09.02-14.04.38:454][380]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.02-14.04.38:471][380]LogTexture: Display: Building textures: /Game/Animations/Peasant_Man_specular.Peasant_Man_specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.09.02-14.04.38:481][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.02-14.04.38:485][380]LogTexture: Display: Building textures: /Game/Animations/Peasant_Man_normal.Peasant_Man_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.09.02-14.04.38:493][380]LogFbx: Triangulating skeletal mesh Peasant_Man
+[2023.09.02-14.04.38:605][380]LogFbx: Bones digested - 43  Depth of hierarchy - 12
+[2023.09.02-14.04.38:752][380]LogSkeletalMesh: Section 0: Material=0, 4631 triangles
+[2023.09.02-14.04.38:770][380]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.09.02-14.04.38:771][380]LogSkeletalMesh: Building Skeletal Mesh Walking...
+[2023.09.02-14.04.38:786][380]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Walking) ...
+[2023.09.02-14.04.38:869][380]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Animations/Walking.Walking
+[2023.09.02-14.04.38:951][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.04.38:951][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.04.38:999][380]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.04.38:999][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.04.39:023][380]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.02-14.04.39:084][381]LogAutomationController: Ignoring very large delta of 25.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: ================================================
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Total job queries 1,010, among them cache hits 234 (23.17%)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Tracking 748 distinct input hashes that result in 236 distinct outputs (31.55%)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: RAM used: 17.01 MiB of 819.20 MiB budget. Usage: 2.08%
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Shaders Compiled: 748
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Jobs assigned 776, completed 748 (96.39%)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Average time worker was idle: 20.12 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Time job spent in pending queue: average 2.91 s, longest 16.34 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 2.70 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Job life time (pending + execution): average 3.57 s, max 16.77
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.15 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Jobs were issued in 754 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Average processing rate: 10.66 jobs/sec
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Total thread time: 336.858 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Total thread preprocess time: 13.399 s
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Percentage time preprocessing: 3.98%
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Effective parallelization: 4.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   55 times, average 0.66 sec, max 1.65 sec, min 0.46 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   55 times, average 0.57 sec, max 1.60 sec, min 0.37 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  100 times, average 0.53 sec, max 0.68 sec, min 0.38 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.50 sec, max 0.55 sec, min 0.47 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.49 sec, max 0.54 sec, min 0.47 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.66% of total time (compiled  100 times, average 0.53 sec, max 0.68 sec, min 0.38 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.01% of total time (compiled  100 times, average 0.47 sec, max 0.60 sec, min 0.29 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 10.75% of total time (compiled   55 times, average 0.66 sec, max 1.65 sec, min 0.46 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.46% of total time (compiled   79 times, average 0.40 sec, max 0.55 sec, min 0.28 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 9.23% of total time (compiled   55 times, average 0.57 sec, max 1.60 sec, min 0.37 sec)
+[2023.09.02-14.04.39:988][444]LogShaderCompilers: Display: ================================================
+[2023.09.02-14.04.41:230][553]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.04.41:971][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.04.42:031][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.04.43:992][837]LogSlate: Window 'Message Log' being destroyed
+[2023.09.02-14.04.43:997][837]LogSlate: Window 'Message Log' being destroyed
+[2023.09.02-14.05.22:942][235]LogContentBrowser: Attempting asset rename: Walking -> Peasant
+[2023.09.02-14.05.23:402][235]LogMetaData: Removing '/Game/Animations/Peasant.Peasant' ref from Metadata '/Game/Animations/Walking.PackageMetaData'
+[2023.09.02-14.05.23:404][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-14.05.23:430][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.05.23:451][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Peasant" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant.uasset" SILENT=true
+[2023.09.02-14.05.23:463][235]LogSavePackage: Moving output files for package: /Game/Animations/Peasant
+[2023.09.02-14.05.23:463][235]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Peasant42F3D86E416B780A4D090ABBB361D990.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant.uasset'
+[2023.09.02-14.05.23:611][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 23.0 sec)
+[2023.09.02-14.05.23:713][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.02-14.05.23:730][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.02-14.05.23:744][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.02-14.05.23:747][235]AssetCheck: New page: Asset Save: Peasant
+[2023.09.02-14.05.23:747][235]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Animations/Peasant.Peasant
+[2023.09.02-14.06.35:362][518]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mrjlv\Downloads\Walking (1).fbx)
+[2023.09.02-14.06.35:367][518]LogFbx: Loading FBX Scene from C:\Users\mrjlv\Downloads\Walking (1).fbx
+[2023.09.02-14.06.35:377][518]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.02-14.06.57:424][518]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(0) Hips
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(1) Spine
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(2) Spine1
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(3) Spine2
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(4) Neck
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(5) Head
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(7) LeftEye
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(8) RightEye
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(10) LeftArm
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(12) LeftHand
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(21) RightShoulder
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(22) RightArm
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(23) RightForeArm
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(24) RightHand
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(25) RightHandThumb1
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(26) RightHandThumb2
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(27) RightHandThumb3
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(28) RightHandThumb4
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(29) RightHandIndex1
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(30) RightHandIndex2
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(31) RightHandIndex3
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(32) RightHandIndex4
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(33) LeftUpLeg
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(34) LeftLeg
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(35) LeftFoot
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(36) LeftToeBase
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(37) LeftToe_End
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(38) RightUpLeg
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(39) RightLeg
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(40) RightFoot
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(41) RightToeBase
+[2023.09.02-14.06.57:439][518]LogFbx: SortedLinks :(42) RightToe_End
+[2023.09.02-14.06.57:439][518]LogFbx: Parsing AnimStack mixamo.com
+[2023.09.02-14.06.57:611][518]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Walking__1_.Walking__1_
+[2023.09.02-14.06.57:628][519]LogAutomationController: Ignoring very large delta of 22.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.02-14.06.57:629][519]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Walking__1_.Walking__1_, at AnimationSequence/83702f49b09f0278f9feabd8e86388a459efe91d
+[2023.09.02-14.06.57:654][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.07:967][147]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Walking__1_.Walking__1_
+[2023.09.02-14.07.08:177][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.08:177][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.08:186][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.02-14.07.08:338][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.08:338][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.08:588][147]LogSlate: Took 0.002440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.02-14.07.08:593][147]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.09.02-14.07.08:598][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.08:598][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.08:615][147]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.09.02-14.07.08:628][147]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.02-14.07.11:712][507]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.11:712][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.07.11:718][507]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.11:718][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.07.11:738][507]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.11:738][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.07.34:130][ 94]LogContentBrowser: Attempting asset rename: Walking__1_ -> A_Walking
+[2023.09.02-14.07.34:605][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-14.07.34:643][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/A_Walking" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/A_Walking.uasset" SILENT=true
+[2023.09.02-14.07.34:652][ 94]LogSavePackage: Moving output files for package: /Game/Animations/A_Walking
+[2023.09.02-14.07.34:652][ 94]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/A_Walking53ABF6DC4FA5D8A122BF249F499F2003.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/A_Walking.uasset'
+[2023.09.02-14.07.34:786][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 23.2 sec)
+[2023.09.02-14.07.34:890][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.02-14.07.34:907][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.02-14.07.34:920][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.02-14.07.34:924][ 94]AssetCheck: New page: Asset Save: A_Walking
+[2023.09.02-14.07.34:924][ 94]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/A_Walking.A_Walking
+[2023.09.02-14.07.41:116][133]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/A_Walking.A_Walking
+[2023.09.02-14.07.41:116][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.41:116][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.41:128][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.02-14.07.41:242][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.41:242][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.41:328][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-14.07.41:328][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-14.07.41:360][133]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.09.02-14.07.41:369][133]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.02-14.07.45:659][594]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.45:659][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.07.45:665][594]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.45:665][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.07.45:685][594]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-14.07.45:685][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-14.08.11:501][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-14.08.11:543][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Walking_PhysicsAsset" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Walking_PhysicsAsset.uasset" SILENT=true
+[2023.09.02-14.08.11:549][198]LogSavePackage: Moving output files for package: /Game/Animations/Walking_PhysicsAsset
+[2023.09.02-14.08.11:549][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Walking_PhysicsAssetC6928A5C48AE2931442D5088A96056A5.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Walking_PhysicsAsset.uasset'
+[2023.09.02-14.08.11:556][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Walking_Skeleton" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Walking_Skeleton.uasset" SILENT=true
+[2023.09.02-14.08.11:557][198]LogSavePackage: Moving output files for package: /Game/Animations/Walking_Skeleton
+[2023.09.02-14.08.11:557][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Walking_Skeleton2BAD1F5B4CD07A2E81EE7886E6DFF053.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Walking_Skeleton.uasset'
+[2023.09.02-14.08.11:558][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Peasant_Man_normal" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_normal.uasset" SILENT=true
+[2023.09.02-14.08.11:580][198]LogSavePackage: Moving output files for package: /Game/Animations/Peasant_Man_normal
+[2023.09.02-14.08.11:581][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Peasant_Man_normal02F15DBD4380C1D38A62B0838E9B39E3.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_normal.uasset'
+[2023.09.02-14.08.11:583][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Peasant_Man_specular" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_specular.uasset" SILENT=true
+[2023.09.02-14.08.11:590][198]LogSavePackage: Moving output files for package: /Game/Animations/Peasant_Man_specular
+[2023.09.02-14.08.11:590][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Peasant_Man_specular0FB32A794DAB8F6765AFA29C398C13F9.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_specular.uasset'
+[2023.09.02-14.08.11:592][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Peasant_Man_diffuse" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_diffuse.uasset" SILENT=true
+[2023.09.02-14.08.11:617][198]LogSavePackage: Moving output files for package: /Game/Animations/Peasant_Man_diffuse
+[2023.09.02-14.08.11:617][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Peasant_Man_diffuseA3EEFD4640AF885969DA2EB3FBCB4562.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_diffuse.uasset'
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: ================================================
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: Total job queries 1,040, among them cache hits 234 (22.50%)
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: Tracking 806 distinct input hashes that result in 264 distinct outputs (32.75%)
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: RAM used: 18.43 MiB of 819.20 MiB budget. Usage: 2.25%
+[2023.09.02-14.08.13:498][198]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Shaders Compiled: 806
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Jobs assigned 806, completed 806 (100.00%)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Average time worker was idle: 21.51 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Time job spent in pending queue: average 2.82 s, longest 16.34 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 2.75 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Job life time (pending + execution): average 3.45 s, max 16.77
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.93 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Jobs were issued in 784 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Average processing rate: 10.90 jobs/sec
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Total thread time: 367.154 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Total thread preprocess time: 14.431 s
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Percentage time preprocessing: 3.93%
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Effective parallelization: 4.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   55 times, average 0.66 sec, max 1.65 sec, min 0.46 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   55 times, average 0.57 sec, max 1.60 sec, min 0.37 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.53 sec, max 0.72 sec, min 0.47 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled  103 times, average 0.53 sec, max 0.68 sec, min 0.38 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 0.53 sec, max 0.75 sec, min 0.47 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.83% of total time (compiled  103 times, average 0.53 sec, max 0.68 sec, min 0.38 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.25% of total time (compiled  103 times, average 0.47 sec, max 0.60 sec, min 0.29 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 9.86% of total time (compiled   55 times, average 0.66 sec, max 1.65 sec, min 0.46 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.91% of total time (compiled   81 times, average 0.40 sec, max 0.55 sec, min 0.28 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 8.47% of total time (compiled   55 times, average 0.57 sec, max 1.60 sec, min 0.37 sec)
+[2023.09.02-14.08.13:499][198]LogShaderCompilers: Display: ================================================
+[2023.09.02-14.08.13:507][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Peasant_Man_02" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_02.uasset" SILENT=true
+[2023.09.02-14.08.13:509][198]LogSavePackage: Moving output files for package: /Game/Animations/Peasant_Man_02
+[2023.09.02-14.08.13:509][198]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Peasant_Man_02CF39F4DC49C12F23A95CCCB40BA4C195.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Animations/Peasant_Man_02.uasset'
+[2023.09.02-14.08.13:745][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.24 sec (total: 25.4 sec)
+[2023.09.02-14.08.13:750][198]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Animations/Walking_PhysicsAsset.Walking_PhysicsAsset
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Animations/Walking_Skeleton.Walking_Skeleton
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Animations/Peasant_Man_normal.Peasant_Man_normal
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Animations/Peasant_Man_specular.Peasant_Man_specular
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Animations/Peasant_Man_diffuse.Peasant_Man_diffuse
+[2023.09.02-14.08.13:751][198]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Animations/Peasant_Man_02.Peasant_Man_02
+[2023.09.02-14.08.13:756][199]LogAutomationController: Ignoring very large delta of 2.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.02-14.08.19:137][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.02-14.08.19:291][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-14.08.19:310][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.02-14.08.19:324][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.02-14.08.19:332][820]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.09.02-14.08.19:332][820]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Main98CBE7A647501559862D639A837E423B.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Maps/Main.umap'
+[2023.09.02-14.08.19:335][820]LogFileHelpers: Saving map 'Main' took 0.026
+[2023.09.02-14.08.19:358][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Lumber" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Lumber.uasset" SILENT=true
+[2023.09.02-14.08.19:363][820]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Lumber
+[2023.09.02-14.08.19:363][820]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Lumber1514C1F6440F941D9C48C0B5CCD1B808.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Lumber.uasset'
+[2023.09.02-14.08.19:364][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/BP_Resources" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Resources/BP_Resources.uasset" SILENT=true
+[2023.09.02-14.08.19:365][820]LogSavePackage: Moving output files for package: /Game/Resources/BP_Resources
+[2023.09.02-14.08.19:365][820]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_ResourcesDF1A33784D098F28041F4293D3ECCA10.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Resources/BP_Resources.uasset'
+[2023.09.02-14.08.19:373][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Resources_Building" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Resources_Building.uasset" SILENT=true
+[2023.09.02-14.08.19:375][820]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Resources_Building
+[2023.09.02-14.08.19:375][820]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Resources_BuildingE902391F442E9CB4C3CAE7AB1F0DD49B.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Resources_Building.uasset'
+[2023.09.02-14.08.19:545][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 25.7 sec)
+[2023.09.02-14.08.19:551][820]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.02-14.08.19:551][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Lumber.BP_Lumber
+[2023.09.02-14.08.19:551][820]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.09.02-14.08.19:551][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Resources/BP_Resources.BP_Resources
+[2023.09.02-14.08.19:551][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Resources_Building.BP_Resources_Building
