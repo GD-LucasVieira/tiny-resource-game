@@ -3736,3 +3736,1253 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.02-00.26.26:878][369]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Main_Auto717CED2194D5AAF7FA717028F2E929DF7.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/Autosaves/Game/Maps/Main_Auto7.umap'
 [2023.09.02-00.26.26:880][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.026
 [2023.09.02-00.26.26:880][369]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2023.09.02-00.30.23:920][492]BlueprintLog: New page: Compile BP_Building
+[2023.09.02-00.30.23:961][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.02-00.30.28:334][966]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.02-00.30.28:343][966]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.02-00.30.28:350][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.02-00.30.33:188][548]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.09.02-00.30.33:188][548]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.02-00.30.39:367][248]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.02-00.30.39:372][248]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.02-00.30.39:390][250]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.02-00.30.42:296][599]LogContentBrowser: Attempting asset rename: NewMaterial -> M_red
+[2023.09.02-00.30.42:368][599]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.02-00.30.49:692][459]LogContentBrowser: Attempting asset rename: M_red -> M_Red
+[2023.09.02-00.30.50:234][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.02-00.30.50:252][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.02-00.30.50:266][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.02-00.30.50:288][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.02-00.30.50:303][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.02-00.30.50:317][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.02-00.30.54:249][573]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Red.M_Red
+[2023.09.02-00.30.54:277][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.30.54:277][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.30.54:359][573]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.30.54:359][573]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.30.54:359][573]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.30.54:363][573]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2023.09.02-00.30.54:420][574]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: RAM used: 17.24 KiB of 819.20 MiB budget. Usage: 0.00%
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Job execution time: average 9.07 s, max 9.07 s
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Job life time (pending + execution): average 9.11 s, max 9.11
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.11 s
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Average processing rate: 0.11 jobs/sec
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Total thread time: 0.36 s
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Total thread preprocess time: 0.037 s
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Percentage time preprocessing: 10.19%
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Effective parallelization: 0.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.02-00.31.03:539][657]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.31.03:653][663]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.03:653][663]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.03:653][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.03:653][663]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.31.03:766][669]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.09.02-00.31.03:766][669]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.03:766][669]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.31.03:766][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.03:766][669]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.31.16:650][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.16:650][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.16:650][ 25]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.31.17:268][ 98]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.17:268][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.17:268][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.17:268][ 98]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.31.17:367][110]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.09.02-00.31.17:367][110]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.17:367][110]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.31.17:367][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.17:367][110]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.31.26:561][527]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.26:561][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.26:561][527]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.31.26:577][529]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.09.02-00.31.26:577][529]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.26:577][529]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.31.26:577][529]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.26:577][529]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.31.37:232][492]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.37:232][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.37:232][492]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.31.38:105][597]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.09.02-00.31.38:105][597]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.38:105][597]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.31.38:105][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.38:105][597]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.31.39:911][812]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.02-00.31.39:918][812]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.39:918][812]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.39:918][812]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.31.39:932][814]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.09.02-00.31.39:932][814]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.39:932][814]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.31.39:932][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.39:932][814]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.31.44:324][873]LogMaterialEditor: Applying material M_Red
+[2023.09.02-00.31.44:417][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.09.02-00.31.44:872][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.02-00.31.44:880][873]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.31.44:880][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.44:880][873]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.31.45:332][912]LogMaterialEditor: Saving and Compiling material M_Red
+[2023.09.02-00.31.45:417][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.31.46:449][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Red" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Red.uasset" SILENT=true
+[2023.09.02-00.31.46:451][912]LogSavePackage: Moving output files for package: /Game/Materials/M_Red
+[2023.09.02-00.31.46:451][912]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_Red7E5355784A9BD43B057E1D9F289F7906.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Red.uasset'
+[2023.09.02-00.31.46:581][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 3.73 sec)
+[2023.09.02-00.31.46:585][912]AssetCheck: New page: Asset Save: M_Red
+[2023.09.02-00.31.46:585][912]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_Red.M_Red
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: MaxSampler: 271 instructions
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.31.46:586][912]MaterialEditorStats: Shader Count: 16
+[2023.09.02-00.31.47:030][964]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.31.47:030][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.31.58:569][157]LogContentBrowser: Deferred new asset file creation: M_Red1
+[2023.09.02-00.31.58:574][157]LogContentBrowser: Creating deferred item: M_Red1
+[2023.09.02-00.31.58:583][158]LogContentBrowser: Renaming the item being created (Deferred Item: M_Red1).
+[2023.09.02-00.32.02:922][678]LogContentBrowser: Attempting asset rename: M_Red1 -> M_Green
+[2023.09.02-00.32.03:064][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.32.04:184][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Green" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset" SILENT=true
+[2023.09.02-00.32.04:185][678]LogSavePackage: Moving output files for package: /Game/Materials/M_Green
+[2023.09.02-00.32.04:185][678]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_GreenC96FAE9C4A3E994A867BC0B835A5BE82.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset'
+[2023.09.02-00.32.04:309][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 4.97 sec)
+[2023.09.02-00.32.04:458][678]LogContentBrowser: End creating deferred item M_Red1
+[2023.09.02-00.32.04:462][678]AssetCheck: New page: Asset Save: M_Green
+[2023.09.02-00.32.04:462][678]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_Green.M_Green
+[2023.09.02-00.32.06:828][728]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Green.M_Green
+[2023.09.02-00.32.06:831][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.32.06:831][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.32.06:898][728]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.06:898][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.06:898][728]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.32.06:902][728]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.02-00.32.07:456][790]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.07:456][790]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.07:456][790]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.07:456][790]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.32.07:557][802]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.09.02-00.32.07:557][802]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.07:557][802]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.07:557][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.07:557][802]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.32.09:945][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.09:945][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.09:945][ 83]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.32.10:185][112]LogDerivedDataCache: C:/Users/mrjlv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 807 files in 1385 folders with total size 76 MiB.
+[2023.09.02-00.32.10:524][153]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.10:524][153]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.10:525][153]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.10:525][153]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.10:525][153]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.32.11:977][325]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.11:977][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.11:977][325]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.32.11:992][327]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.11:992][327]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.11:992][327]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.11:992][327]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.11:992][327]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.32.17:149][945]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.17:149][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.17:149][945]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.32.17:713][ 13]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.17:713][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.17:713][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.17:713][ 13]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.32.17:721][ 14]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.17:721][ 14]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.17:721][ 14]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.17:721][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.17:721][ 14]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.32.18:047][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.02-00.32.18:053][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.18:053][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.18:053][ 51]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.32.18:069][ 53]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.18:069][ 53]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.18:069][ 53]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.18:069][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.18:069][ 53]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.32.20:012][286]LogMaterialEditor: Applying material M_Green
+[2023.09.02-00.32.20:063][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.32.20:504][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.02-00.32.20:511][286]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.20:511][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.20:511][286]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.32.20:992][344]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.20:992][344]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.32.20:992][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.20:992][344]MaterialEditorStats: Shader Count: 5
+[2023.09.02-00.32.21:102][357]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.21:102][357]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.21:102][357]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.32.21:102][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.21:102][357]MaterialEditorStats: Shader Count: 6
+[2023.09.02-00.32.21:201][369]LogMaterialEditor: Saving and Compiling material M_Green
+[2023.09.02-00.32.21:275][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.32.22:262][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Green" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset" SILENT=true
+[2023.09.02-00.32.22:264][369]LogSavePackage: Moving output files for package: /Game/Materials/M_Green
+[2023.09.02-00.32.22:264][369]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_GreenCCC1AEEF4316D8794D5AE8AF2619854C.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset'
+[2023.09.02-00.32.22:268][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 993 ms (total: 5.97 sec)
+[2023.09.02-00.32.22:272][369]AssetCheck: New page: Asset Save: M_Green
+[2023.09.02-00.32.22:272][369]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_Green.M_Green
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: MaxSampler: 272 instructions
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.32.22:274][369]MaterialEditorStats: Shader Count: 16
+[2023.09.02-00.32.22:904][444]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.32.22:904][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.32.32:442][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.32:443][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.32:443][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.35:173][880]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.35:173][880]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.38:951][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacityInstance.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacityInstance.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.38:951][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.38:951][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.39:870][226]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.39:978][239]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.40:095][253]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.40:295][277]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.40:352][284]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.43:688][677]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/ArtTools/RenderToTexture/Materials/M_BackgroundCard_01.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/ArtTools/RenderToTexture/Materials/M_BackgroundCard_01.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.43:688][677]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_BaseColor_Constant.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_BaseColor_Constant.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.43:688][677]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.43:688][677]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/ColorCalibrator: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/ColorCalibrator' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.47:599][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.47:599][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.47:599][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.58:182][334]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.58:182][334]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.58:182][334]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.32.58:182][334]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.00:217][561]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/Anisotropy.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/Anisotropy.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.01:650][697]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.01:650][697]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/WorldNormal.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/WorldNormal.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.01:691][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.01:691][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/WorldTangent.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization/WorldTangent.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.01:691][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.02:958][825]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.02:958][825]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.02:958][825]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.04:692][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/TransformGizmo/Xray.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.04:692][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/BufferVisualization' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.04:692][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.04:692][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.15:732][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineMaterials' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.15:732][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/Camera: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/Camera' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.15:732][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/MatineeCam_mat.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/MatineeCam_mat.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.16:879][461]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.33.32:336][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.33.32:383][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Building" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset" SILENT=true
+[2023.09.02-00.33.32:389][863]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Building
+[2023.09.02-00.33.32:389][863]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_BuildingD9D3647148A51D0D2D52AD85A994B73C.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset'
+[2023.09.02-00.33.32:394][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.02 sec)
+[2023.09.02-00.33.32:399][863]AssetCheck: New page: Asset Save: BP_Building
+[2023.09.02-00.33.32:399][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Building.BP_Building
+[2023.09.02-00.34.15:586][747]BlueprintLog: New page: Compile BP_Building
+[2023.09.02-00.34.15:624][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.02-00.34.17:052][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.34.17:134][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Building" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset" SILENT=true
+[2023.09.02-00.34.17:140][907]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Building
+[2023.09.02-00.34.17:140][907]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Building694837A84110A5B033524CA633BA3C0A.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset'
+[2023.09.02-00.34.17:145][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.12 sec)
+[2023.09.02-00.34.17:150][907]AssetCheck: New page: Asset Save: BP_Building
+[2023.09.02-00.34.17:150][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Building.BP_Building
+[2023.09.02-00.34.19:442][157]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.34.19:448][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.02-00.34.19:448][157]PIE: New page: PIE session: Main (Sep 1, 2023, 6:34:19 PM)
+[2023.09.02-00.34.19:475][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.34.19:476][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2023.09.02-00.34.19:476][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001772s)
+[2023.09.02-00.34.19:477][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.34.19:477][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.34.19:477][157]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.34.19:477][157]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.09.02-00.34.19:493][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.34.19:496][157]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.34.19:496][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.34.19:496][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.34.19:496][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.34.19:496][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.34.19:496][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.34.19:498][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.34.19:514][157]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.34.19:514][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.34.19:514][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.34.19:514][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.34.19:515][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.09.02-00.34.19:515][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2023.09.02-00.34.19:516][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.09.02-00.34.19:516][157]LogInit: FAudioDevice initialized with ID 25.
+[2023.09.02-00.34.19:516][157]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main'.
+[2023.09.02-00.34.19:516][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.09.02-00.34.19:516][157]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.09.02-00.34.19:518][157]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.34.19:519][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.34.19
+[2023.09.02-00.34.19:519][157]LogWorld: Bringing up level for play took: 0.000507
+[2023.09.02-00.34.19:520][157]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.09.02-00.34.19:521][157]PIE: Server logged in
+[2023.09.02-00.34.19:521][157]PIE: Play in editor total start time 0.075 seconds.
+[2023.09.02-00.34.19:534][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:534][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:536][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:536][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:536][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:537][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:537][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:537][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:537][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.19:538][157]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.22:834][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:845][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.34.28:845][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.34.28:845][263]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.34.28:845][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.34.28:849][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.34.28:852][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.34.28:866][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.02-00.34.28:867][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.09.02-00.34.28:867][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.09.02-00.34.28:868][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.09.02-00.34.28:871][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.34.28:873][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.02-00.34.28:883][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:883][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:884][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:884][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:884][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:885][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:885][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:885][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:886][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:886][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.28:921][265]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.09.02-00.34.29:678][351]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Green.M_Green
+[2023.09.02-00.34.29:681][351]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.34.29:681][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.34.29:749][351]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.29:749][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.29:749][351]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.29:752][351]LogViewport: Scene viewport resized to 376x458, mode Windowed.
+[2023.09.02-00.34.29:794][352]LogViewport: Scene viewport resized to 376x450, mode Windowed.
+[2023.09.02-00.34.29:835][353]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Total job queries 147, among them cache hits 63 (42.86%)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 32 distinct outputs (40.00%)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: RAM used: 1.71 MiB of 819.20 MiB budget. Usage: 0.21%
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Shaders Compiled: 80
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Jobs assigned 84, completed 80 (95.24%)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Average time worker was idle: 13.01 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.62 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 9.28 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 9.32
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.61 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Jobs were issued in 84 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Average processing rate: 4.54 jobs/sec
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Total thread time: 34.332 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Total thread preprocess time: 1.574 s
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Percentage time preprocessing: 4.59%
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.53 sec, max 0.63 sec, min 0.46 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.53 sec, max 0.63 sec, min 0.47 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.53 sec, max 0.62 sec, min 0.46 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.51 sec, max 0.60 sec, min 0.45 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.51 sec, max 0.61 sec, min 0.45 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.58% of total time (compiled   13 times, average 0.49 sec, max 0.56 sec, min 0.44 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.69% of total time (compiled   13 times, average 0.44 sec, max 0.51 sec, min 0.38 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.32% of total time (compiled    9 times, average 0.39 sec, max 0.47 sec, min 0.34 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.16% of total time (compiled    9 times, average 0.31 sec, max 0.37 sec, min 0.26 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.65% of total time (compiled    3 times, average 0.53 sec, max 0.63 sec, min 0.46 sec)
+[2023.09.02-00.34.29:871][356]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.34.30:429][420]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.30:429][420]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.30:429][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.30:429][420]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.34.30:537][433]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.30:537][433]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.30:537][433]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.30:537][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.30:537][433]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.34.34:969][959]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.34:969][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.34:969][959]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.35:631][ 36]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.35:631][ 36]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.35:631][ 36]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.35:631][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.35:631][ 36]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.34.36:735][167]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.36:735][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.36:735][167]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.37:361][241]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.37:361][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.37:361][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.37:361][241]MaterialEditorStats: Shader Count: 3
+[2023.09.02-00.34.37:462][253]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.37:462][253]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.37:462][253]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.37:462][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.37:462][253]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.34.38:085][326]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.02-00.34.38:091][326]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.38:091][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.38:091][326]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.38:113][328]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.38:113][328]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.38:113][328]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.38:113][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.38:113][328]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.34.44:269][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.44:269][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.44:269][ 62]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.44:871][132]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.44:872][132]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.44:872][132]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.44:872][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.44:872][132]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.34.45:231][173]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.02-00.34.45:237][173]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.45:237][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.45:237][173]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.34.45:258][175]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.45:258][175]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.45:258][175]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.34.45:259][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.45:259][175]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.34.46:899][372]LogMaterialEditor: Applying material M_Green
+[2023.09.02-00.34.46:950][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.02-00.34.47:502][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.02-00.34.47:510][372]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.34.47:510][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.47:510][372]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.34.48:110][443]LogMaterialEditor: Saving and Compiling material M_Green
+[2023.09.02-00.34.48:185][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.34.49:233][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Green" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset" SILENT=true
+[2023.09.02-00.34.49:235][443]LogSavePackage: Moving output files for package: /Game/Materials/M_Green
+[2023.09.02-00.34.49:235][443]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_Green758913864720B5F0F71BA9B32F1A1392.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_Green.uasset'
+[2023.09.02-00.34.49:240][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 7.17 sec)
+[2023.09.02-00.34.49:245][443]AssetCheck: New page: Asset Save: M_Green
+[2023.09.02-00.34.49:245][443]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_Green.M_Green
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: MaxSampler: 272 instructions
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.34.49:246][443]MaterialEditorStats: Shader Count: 16
+[2023.09.02-00.34.49:655][491]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.34.49:655][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.34.51:771][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.34.51:776][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.02-00.34.51:776][724]PIE: New page: PIE session: Main (Sep 1, 2023, 6:34:51 PM)
+[2023.09.02-00.34.51:776][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.34.51:778][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001560s)
+[2023.09.02-00.34.51:778][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001587s)
+[2023.09.02-00.34.51:778][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.34.51:778][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.34.51:778][724]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.34.51:778][724]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2023.09.02-00.34.51:794][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.02-00.34.51:797][724]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.34.51:797][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.34.51:797][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.34.51:797][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.34.51:797][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.34.51:797][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.34.51:799][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.34.51:814][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.34.51:815][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.34.51:815][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.34.51:815][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.34.51:816][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.09.02-00.34.51:816][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2023.09.02-00.34.51:817][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.09.02-00.34.51:817][724]LogInit: FAudioDevice initialized with ID 26.
+[2023.09.02-00.34.51:817][724]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main'.
+[2023.09.02-00.34.51:817][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.09.02-00.34.51:817][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.09.02-00.34.51:819][724]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.34.51:819][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.34.51
+[2023.09.02-00.34.51:820][724]LogWorld: Bringing up level for play took: 0.000485
+[2023.09.02-00.34.51:821][724]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.09.02-00.34.51:822][724]PIE: Server logged in
+[2023.09.02-00.34.51:823][724]PIE: Play in editor total start time 0.047 seconds.
+[2023.09.02-00.34.51:844][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:845][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:845][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:845][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:846][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:846][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:846][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:847][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:847][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.51:847][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.53:959][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:584][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.34.57:584][399]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.34.57:584][399]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.34.57:584][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.34.57:598][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.34.57:601][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.34.57:616][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.02-00.34.57:616][399]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.09.02-00.34.57:616][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.09.02-00.34.57:617][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.09.02-00.34.57:621][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.34.57:623][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.02-00.34.57:635][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:635][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:635][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:635][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:636][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:636][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:636][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:637][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:637][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:637][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.34.57:675][401]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.09.02-00.36.15:597][254]BlueprintLog: New page: Compile BP_Building
+[2023.09.02-00.36.15:627][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.36.16:241][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.36.16:311][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Building" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset" SILENT=true
+[2023.09.02-00.36.16:318][307]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Building
+[2023.09.02-00.36.16:318][307]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_BuildingE8182AC3459F9E2A71F8709B88F6F9EF.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset'
+[2023.09.02-00.36.16:323][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 7.25 sec)
+[2023.09.02-00.36.16:327][307]AssetCheck: New page: Asset Save: BP_Building
+[2023.09.02-00.36.16:327][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Building.BP_Building
+[2023.09.02-00.36.18:031][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.36.18:038][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.02-00.36.18:038][487]PIE: New page: PIE session: Main (Sep 1, 2023, 6:36:18 PM)
+[2023.09.02-00.36.18:038][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.36.18:040][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001521s)
+[2023.09.02-00.36.18:040][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001548s)
+[2023.09.02-00.36.18:040][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.18:040][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.36.18:040][487]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.36.18:040][487]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.09.02-00.36.18:056][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.02-00.36.18:059][487]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.36.18:059][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.36.18:059][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.36.18:059][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.36.18:059][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.36.18:059][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.36.18:061][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.36.18:077][487]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.36.18:077][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.36.18:077][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.36.18:077][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.36.18:078][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.09.02-00.36.18:078][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2023.09.02-00.36.18:079][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.09.02-00.36.18:079][487]LogInit: FAudioDevice initialized with ID 27.
+[2023.09.02-00.36.18:079][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.09.02-00.36.18:079][487]LogAudio: Display: Audio Device (ID: 27) registered with world 'Main'.
+[2023.09.02-00.36.18:079][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.09.02-00.36.18:082][487]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.36.18:083][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.36.18
+[2023.09.02-00.36.18:083][487]LogWorld: Bringing up level for play took: 0.000517
+[2023.09.02-00.36.18:083][487]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.09.02-00.36.18:085][487]PIE: Server logged in
+[2023.09.02-00.36.18:085][487]PIE: Play in editor total start time 0.049 seconds.
+[2023.09.02-00.36.18:105][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:106][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:106][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:106][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:107][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:107][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:107][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:108][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:108][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.18:108][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.19:975][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.36.19:975][700]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.36.19:975][700]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.36.19:975][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.36.19:979][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.36.19:982][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.36.19:997][700]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.02-00.36.19:997][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.09.02-00.36.19:998][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.09.02-00.36.19:999][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.09.02-00.36.20:002][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.36.20:005][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.02-00.36.20:015][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:015][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:015][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:015][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:016][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:016][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:016][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:017][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:017][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:017][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:054][702]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.09.02-00.36.20:574][763]Cmd: DUPLICATE
+[2023.09.02-00.36.20:574][763]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.20:597][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:597][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:598][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:598][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:598][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:599][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:599][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:599][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:600][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:600][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:602][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.20:602][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:243][838]Cmd: DUPLICATE
+[2023.09.02-00.36.21:243][838]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.21:263][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:263][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:264][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:264][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:265][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:265][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:265][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:266][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:268][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:268][838]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:709][890]Cmd: DUPLICATE
+[2023.09.02-00.36.21:709][890]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.21:730][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:730][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:730][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:731][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:731][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:732][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:732][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:732][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:734][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:734][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.21:983][919]Cmd: DUPLICATE
+[2023.09.02-00.36.21:983][919]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.22:004][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:004][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:005][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:005][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:005][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:006][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:006][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:006][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:008][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:009][919]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:949][ 31]Cmd: DUPLICATE
+[2023.09.02-00.36.22:950][ 31]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.22:970][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:970][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:970][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:971][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:971][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:971][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:972][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:972][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:974][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:974][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.22:994][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:132][169]Cmd: DUPLICATE
+[2023.09.02-00.36.24:132][169]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.24:152][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:152][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:153][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:153][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:154][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:154][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:154][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:155][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:155][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:158][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:782][243]Cmd: DUPLICATE
+[2023.09.02-00.36.24:782][243]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.24:803][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:803][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:804][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:804][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:804][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:805][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:805][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:806][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:806][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.24:809][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:300][301]Cmd: DUPLICATE
+[2023.09.02-00.36.25:300][301]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.25:320][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:320][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:320][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:321][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:321][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:322][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:322][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:322][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:322][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:325][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:757][352]Cmd: DUPLICATE
+[2023.09.02-00.36.25:757][352]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.25:777][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:777][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:778][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:778][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:778][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:779][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:779][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:779][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:780][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.25:781][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:289][412]Cmd: DUPLICATE
+[2023.09.02-00.36.26:289][412]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.26:308][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:308][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:309][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:309][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:310][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:310][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:310][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:311][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:311][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.26:312][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:054][500]Cmd: DUPLICATE
+[2023.09.02-00.36.27:054][500]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:074][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:074][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:074][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:075][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:075][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:075][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:076][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:076][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:076][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:078][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:244][519]Cmd: DUPLICATE
+[2023.09.02-00.36.27:244][519]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:263][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:264][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:264][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:264][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:264][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:265][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:265][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:265][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:266][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:267][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:450][540]Cmd: DUPLICATE
+[2023.09.02-00.36.27:450][540]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:470][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:470][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:470][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:471][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:471][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:472][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:472][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:472][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:472][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:474][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:631][558]Cmd: DUPLICATE
+[2023.09.02-00.36.27:631][558]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:650][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:651][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:651][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:651][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:652][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:652][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:653][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:653][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:653][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:655][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:787][573]Cmd: DUPLICATE
+[2023.09.02-00.36.27:787][573]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:807][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:808][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:808][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:809][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:809][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:809][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:810][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:810][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:810][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:811][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:812][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:961][590]Cmd: DUPLICATE
+[2023.09.02-00.36.27:961][590]Cmd: ACTOR DUPLICATE
+[2023.09.02-00.36.27:981][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:981][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:982][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:982][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:982][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:983][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:983][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:983][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:984][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.27:986][590]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.31:679][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.31:680][ 31]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.31:754][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.31:755][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.31:896][ 57]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.32:087][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.32:088][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.32:720][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.32:812][167]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.32:813][167]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.33:220][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.33:221][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.33:227][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:166][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:166][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:166][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:167][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:167][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:167][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:168][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:168][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.34:180][327]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:501][486]Cmd: DELETE
+[2023.09.02-00.36.35:501][486]Cmd: ACTOR DELETE
+[2023.09.02-00.36.35:508][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.35:512][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.35:516][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.35:519][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.35:521][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:522][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:522][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:523][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:523][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:524][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:525][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:525][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:526][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:526][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:527][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:527][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:528][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:528][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:528][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:528][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.02-00.36.35:545][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.36.35:548][486]LogEditorActor: Deleted 16 Actors (0.046 secs)
+[2023.09.02-00.36.35:558][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:558][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:558][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:558][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:559][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:559][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:559][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.35:560][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.37:819][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.37:819][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.37:835][758]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.38:430][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.38:431][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.38:506][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.40:722][105]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.40:722][105]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.40:722][105]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.40:729][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.40:730][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.41:964][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.52:504][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.02-00.36.52:579][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.36.52:599][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.02-00.36.52:615][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.02-00.36.52:623][510]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.09.02-00.36.52:623][510]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/MainC2866DC84FFFC12FDB846AB3176F1F56.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Maps/Main.umap'
+[2023.09.02-00.36.52:626][510]LogFileHelpers: Saving map 'Main' took 0.027
+[2023.09.02-00.36.52:631][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 7.31 sec)
+[2023.09.02-00.36.52:636][510]AssetCheck: New page: Asset Save: Main
+[2023.09.02-00.36.52:636][510]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.09.02-00.36.55:108][805]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.36.55:113][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.02-00.36.55:113][805]PIE: New page: PIE session: Main (Sep 1, 2023, 6:36:55 PM)
+[2023.09.02-00.36.55:113][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.36.55:115][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001530s)
+[2023.09.02-00.36.55:115][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001555s)
+[2023.09.02-00.36.55:115][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.36.55:115][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.36.55:115][805]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.36.55:116][805]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2023.09.02-00.36.55:131][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.36.55:132][805]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.36.55:132][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.36.55:132][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.36.55:132][805]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.36.55:132][805]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.36.55:132][805]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.36.55:134][805]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.36.55:150][805]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.36.55:150][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.36.55:150][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.36.55:150][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.36.55:151][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.09.02-00.36.55:151][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=28
+[2023.09.02-00.36.55:152][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.09.02-00.36.55:152][805]LogInit: FAudioDevice initialized with ID 28.
+[2023.09.02-00.36.55:152][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.09.02-00.36.55:152][805]LogAudio: Display: Audio Device (ID: 28) registered with world 'Main'.
+[2023.09.02-00.36.55:152][805]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.02-00.36.55:155][805]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.36.55:155][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.36.55
+[2023.09.02-00.36.55:155][805]LogWorld: Bringing up level for play took: 0.000490
+[2023.09.02-00.36.55:156][805]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.09.02-00.36.55:157][805]PIE: Server logged in
+[2023.09.02-00.36.55:157][805]PIE: Play in editor total start time 0.045 seconds.
+[2023.09.02-00.36.55:179][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:180][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:180][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:180][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:181][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:181][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:181][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:182][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:182][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.55:182][805]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.57:717][101]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:245][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.36.58:245][162]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.36.58:245][162]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.36.58:245][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.36.58:248][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.36.58:251][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.36.58:266][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.36.58:266][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.09.02-00.36.58:266][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.02-00.36.58:268][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.09.02-00.36.58:273][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.09.02-00.36.58:283][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:284][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:284][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:284][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:285][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.36.58:329][165]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.09.02-00.37.07:935][260]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.37.07:939][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.02-00.37.07:939][260]PIE: New page: PIE session: Main (Sep 1, 2023, 6:37:07 PM)
+[2023.09.02-00.37.07:940][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.37.07:941][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001588s)
+[2023.09.02-00.37.07:941][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001619s)
+[2023.09.02-00.37.07:941][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.37.07:941][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.37.07:942][260]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.37.07:942][260]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2023.09.02-00.37.07:958][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.09.02-00.37.07:961][260]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.37.07:961][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.37.07:961][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.37.07:961][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.37.07:961][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.37.07:961][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.37.07:963][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.37.07:977][260]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.37.07:979][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.37.07:979][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.37.07:979][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.37.07:979][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.09.02-00.37.07:979][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2023.09.02-00.37.07:980][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.09.02-00.37.07:980][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.09.02-00.37.07:980][260]LogInit: FAudioDevice initialized with ID 29.
+[2023.09.02-00.37.07:980][260]LogAudio: Display: Audio Device (ID: 29) registered with world 'Main'.
+[2023.09.02-00.37.07:980][260]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.09.02-00.37.08:035][260]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.37.08:035][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.37.08
+[2023.09.02-00.37.08:035][260]LogWorld: Bringing up level for play took: 0.000486
+[2023.09.02-00.37.08:037][260]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.09.02-00.37.08:038][260]PIE: Server logged in
+[2023.09.02-00.37.08:039][260]PIE: Play in editor total start time 0.099 seconds.
+[2023.09.02-00.37.08:053][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:053][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:054][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:054][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:054][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:055][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:055][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:055][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:055][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.08:055][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.11:441][647]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:505][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.37.14:505][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.37.14:505][ 12]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.37.14:505][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.37.14:508][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.37.14:512][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.37.14:527][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.37.14:527][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.09.02-00.37.14:527][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.09.02-00.37.14:528][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.09.02-00.37.14:533][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.02-00.37.14:543][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:543][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:543][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:544][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:545][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.37.14:581][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.09.02-00.37.43:339][770]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.09.02-00.37.43:344][770]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.09.02-00.37.43:352][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.09.02-00.38.38:627][404]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_Building_State
+[2023.09.02-00.38.38:712][404]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.09.02-00.38.45:582][602]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Buildings/E_Building_State.E_Building_State
+[2023.09.02-00.39.15:863][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.39.15:884][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/E_Building_State" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/E_Building_State.uasset" SILENT=true
+[2023.09.02-00.39.15:885][790]LogSavePackage: Moving output files for package: /Game/Buildings/E_Building_State
+[2023.09.02-00.39.15:885][790]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/E_Building_StateD57D9082454D863C1A4AA99CB8C073E7.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/E_Building_State.uasset'
+[2023.09.02-00.39.16:018][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 7.46 sec)
+[2023.09.02-00.39.16:023][790]AssetCheck: New page: Asset Save: E_Building_State
+[2023.09.02-00.39.16:023][790]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Buildings/E_Building_State.E_Building_State
+[2023.09.02-00.40.05:297][703]BlueprintLog: New page: Compile BP_Building
+[2023.09.02-00.40.05:340][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.02-00.42.06:500][872]LogContentBrowser: Deferred new asset file creation: M_Red1
+[2023.09.02-00.42.06:504][872]LogContentBrowser: Creating deferred item: M_Red1
+[2023.09.02-00.42.06:514][873]LogContentBrowser: Renaming the item being created (Deferred Item: M_Red1).
+[2023.09.02-00.42.10:739][380]LogContentBrowser: Attempting asset rename: M_Red1 -> M_White
+[2023.09.02-00.42.10:884][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Total job queries 227, among them cache hits 93 (40.97%)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Tracking 134 distinct input hashes that result in 49 distinct outputs (36.57%)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: RAM used: 2.87 MiB of 819.20 MiB budget. Usage: 0.35%
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Shaders Compiled: 134
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Jobs assigned 134, completed 134 (100.00%)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Average time worker was idle: 41.03 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.82 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 9.28 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 9.32
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.75 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Jobs were issued in 134 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Average processing rate: 5.64 jobs/sec
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Total thread time: 57.269 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Total thread preprocess time: 2.55 s
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Percentage time preprocessing: 4.45%
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.55 sec, max 0.63 sec, min 0.46 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.54 sec, max 0.62 sec, min 0.46 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.52 sec, max 0.63 sec, min 0.47 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 0.52 sec, max 0.60 sec, min 0.45 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 0.51 sec, max 0.61 sec, min 0.45 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.55% of total time (compiled   22 times, average 0.48 sec, max 0.56 sec, min 0.42 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.66% of total time (compiled   22 times, average 0.43 sec, max 0.51 sec, min 0.37 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.10% of total time (compiled   15 times, average 0.39 sec, max 0.47 sec, min 0.31 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.83% of total time (compiled   15 times, average 0.30 sec, max 0.37 sec, min 0.26 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.76% of total time (compiled    5 times, average 0.55 sec, max 0.63 sec, min 0.46 sec)
+[2023.09.02-00.42.12:170][380]LogShaderCompilers: Display: ================================================
+[2023.09.02-00.42.12:195][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_White" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_White.uasset" SILENT=true
+[2023.09.02-00.42.12:197][380]LogSavePackage: Moving output files for package: /Game/Materials/M_White
+[2023.09.02-00.42.12:197][380]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_WhiteC4AAE5754F900CCC8245B1A9A37A1539.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_White.uasset'
+[2023.09.02-00.42.12:315][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.43 sec (total: 8.89 sec)
+[2023.09.02-00.42.12:454][380]LogContentBrowser: End creating deferred item M_Red1
+[2023.09.02-00.42.12:458][380]AssetCheck: New page: Asset Save: M_White
+[2023.09.02-00.42.12:458][380]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_White.M_White
+[2023.09.02-00.42.13:303][471]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_White.M_White
+[2023.09.02-00.42.13:306][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.42.13:306][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.42.13:388][471]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.13:388][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.13:388][471]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.42.13:393][471]LogViewport: Scene viewport resized to 376x455, mode Windowed.
+[2023.09.02-00.42.13:433][472]LogViewport: Scene viewport resized to 376x447, mode Windowed.
+[2023.09.02-00.42.13:477][473]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.02-00.42.14:025][533]MaterialEditorStats: Base pass shader: 223 instructions
+[2023.09.02-00.42.14:025][533]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.14:025][533]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.42.14:025][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.14:025][533]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.42.15:837][746]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.15:837][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.15:837][746]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.42.16:436][818]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.09.02-00.42.16:436][818]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.16:436][818]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.42.16:436][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.16:436][818]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.42.17:039][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.17:039][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.17:039][888]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.42.17:628][959]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.42.17:628][959]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.17:628][959]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.42.17:628][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.17:628][959]MaterialEditorStats: Shader Count: 4
+[2023.09.02-00.42.18:472][ 58]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.02-00.42.18:478][ 58]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.18:478][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.18:478][ 58]MaterialEditorStats: Shader Count: 0
+[2023.09.02-00.42.18:494][ 60]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.42.18:494][ 60]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.18:494][ 60]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.02-00.42.18:494][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.18:494][ 60]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.42.21:951][163]LogMaterialEditor: Applying material M_White
+[2023.09.02-00.42.22:007][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.02-00.42.22:458][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.02-00.42.22:466][163]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.22:466][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.22:466][163]MaterialEditorStats: Shader Count: 2
+[2023.09.02-00.42.22:902][209]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.22:902][209]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.02-00.42.22:902][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.22:902][209]MaterialEditorStats: Shader Count: 5
+[2023.09.02-00.42.22:993][220]LogMaterialEditor: Saving and Compiling material M_White
+[2023.09.02-00.42.23:066][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.42.24:058][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_White" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_White.uasset" SILENT=true
+[2023.09.02-00.42.24:059][220]LogSavePackage: Moving output files for package: /Game/Materials/M_White
+[2023.09.02-00.42.24:059][220]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/M_White96AF9A3A44E93156C2BAA7AD98CE0F3F.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Materials/M_White.uasset'
+[2023.09.02-00.42.24:066][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 9.89 sec)
+[2023.09.02-00.42.24:070][220]AssetCheck: New page: Asset Save: M_White
+[2023.09.02-00.42.24:070][220]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_White.M_White
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: Base pass shader: 224 instructions
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: MaxSampler: 272 instructions
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.02-00.42.24:071][220]MaterialEditorStats: Shader Count: 16
+[2023.09.02-00.42.24:835][311]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.42.24:835][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.42.30:422][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.42.30:422][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.42.30:422][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/MyGames/tiny-resource-game'
+[2023.09.02-00.42.59:240][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.42.59:307][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/BP_Building" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset" SILENT=true
+[2023.09.02-00.42.59:314][747]LogSavePackage: Moving output files for package: /Game/Buildings/BP_Building
+[2023.09.02-00.42.59:315][747]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Building6BABF60F4FA9A027BBE458B4F01DFDCE.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/Buildings/BP_Building.uasset'
+[2023.09.02-00.42.59:319][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.97 sec)
+[2023.09.02-00.42.59:324][747]AssetCheck: New page: Asset Save: BP_Building
+[2023.09.02-00.42.59:324][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Buildings/BP_Building.BP_Building
+[2023.09.02-00.43.54:630][933]BlueprintLog: New page: Compile BP_Building_manager
+[2023.09.02-00.43.54:669][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.09.02-00.43.55:526][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.02-00.43.55:546][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/General/BP_Building_manager" FILE="D:/MyGames/tiny-resource-game/TinyResourceGame/Content/General/BP_Building_manager.uasset" SILENT=true
+[2023.09.02-00.43.55:555][ 22]LogSavePackage: Moving output files for package: /Game/General/BP_Building_manager
+[2023.09.02-00.43.55:556][ 22]LogSavePackage: Moving 'D:/MyGames/tiny-resource-game/TinyResourceGame/Saved/BP_Building_managerA86DE0424892E326C48792AD4E7A5C9D.tmp' to 'D:/MyGames/tiny-resource-game/TinyResourceGame/Content/General/BP_Building_manager.uasset'
+[2023.09.02-00.43.55:560][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 10.0 sec)
+[2023.09.02-00.43.55:565][ 22]AssetCheck: New page: Asset Save: BP_Building_manager
+[2023.09.02-00.43.55:565][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/General/BP_Building_manager.BP_Building_manager
+[2023.09.02-00.43.55:732][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:808][146]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.02-00.43.56:815][146]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.02-00.43.56:827][146]LogPlayLevel: [PlayLevel] Compiling BP_Building before play...
+[2023.09.02-00.43.56:857][146]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.09.02-00.43.56:880][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.02-00.43.56:882][146]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (2 blueprints)
+[2023.09.02-00.43.56:882][146]PIE: New page: PIE session: Main (Sep 1, 2023, 6:43:56 PM)
+[2023.09.02-00.43.56:905][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.43.56:907][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001689s)
+[2023.09.02-00.43.56:907][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001722s)
+[2023.09.02-00.43.56:907][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.02-00.43.56:907][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.02-00.43.56:907][146]LogAIModule: Creating AISystem for world Main
+[2023.09.02-00.43.56:907][146]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2023.09.02-00.43.56:922][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.02-00.43.56:924][146]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.02-00.43.56:924][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.02-00.43.56:924][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.02-00.43.56:924][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.02-00.43.56:924][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.02-00.43.56:924][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.02-00.43.56:926][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.02-00.43.56:942][146]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G533 Gaming Headset)
+[2023.09.02-00.43.56:942][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.02-00.43.56:942][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.02-00.43.56:942][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.02-00.43.56:943][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.09.02-00.43.56:943][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=30
+[2023.09.02-00.43.56:944][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.09.02-00.43.56:944][146]LogInit: FAudioDevice initialized with ID 30.
+[2023.09.02-00.43.56:944][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.09.02-00.43.56:944][146]LogAudio: Display: Audio Device (ID: 30) registered with world 'Main'.
+[2023.09.02-00.43.56:944][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.09.02-00.43.56:945][146]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.02-00.43.56:946][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.01-21.43.56
+[2023.09.02-00.43.56:946][146]LogWorld: Bringing up level for play took: 0.000500
+[2023.09.02-00.43.56:947][146]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.09.02-00.43.56:948][146]PIE: Server logged in
+[2023.09.02-00.43.56:949][146]PIE: Play in editor total start time 0.136 seconds.
+[2023.09.02-00.43.56:962][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:963][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:963][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:963][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:964][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:964][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:964][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:965][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:965][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.56:965][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.43.58:288][297]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:565][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.44.08:565][527]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.09.02-00.44.08:565][527]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.02-00.44.08:566][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.44.08:569][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.02-00.44.08:572][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.02-00.44.08:586][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.02-00.44.08:587][527]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.09.02-00.44.08:587][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.09.02-00.44.08:588][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.09.02-00.44.08:593][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.02-00.44.08:603][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:604][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:604][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:605][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:605][527]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.02-00.44.08:648][529]LogPlayLevel: Display: Destroying online subsystem :Context_45
